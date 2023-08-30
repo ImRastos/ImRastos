@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! My name is Tyler and I am an aspiring software developer!
+Hello! My name is Tyler and I am an aspiring software engineer!
