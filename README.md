@@ -27,6 +27,7 @@ Projects I'm currently working on / theory crafting:
 4. A few others that are not fleshed out as of yet
 
 Feel free to connect with me on LinkedIn if you would like to chat or discuss software development!
+** https://www.linkedin.com/in/tylerkdix/ **
 
 Warmest regards,
 Tyler Dix
